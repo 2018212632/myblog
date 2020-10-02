@@ -1,37 +1,21 @@
-## MyBlog
+# MyBlog
+> 纪录、整理、思考、总结 !
+> 每天进步一点点 !
 
-You can use the [editor on GitHub](https://github.com/2018212632/myblog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## js 相关
 
-### Markdown
+## ES6 相关
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## React 相关
 
-```markdown
-Syntax highlighted code block
+## 网络相关
 
-# Header 1
-## Header 2
-### Header 3
+## 浏览器
 
-- Bulleted
-- List
+## 数据结构及算法
 
-1. Numbered
-2. List
+* [Leetcode剑指Offer03](https://github.com/2018212632/myblog/issues/2)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2018212632/myblog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
