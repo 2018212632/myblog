@@ -8,6 +8,7 @@
 
 ## ES6 相关
 
+* [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
 ## React 相关
 
 ## 网络相关
