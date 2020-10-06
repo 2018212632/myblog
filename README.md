@@ -9,6 +9,7 @@
 ## ES6 相关
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
+* [ES6之字符串模板](https://github.com/2018212632/myblog/issues/6)
 ## React 相关
 
 ## 网络相关
