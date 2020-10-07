@@ -5,7 +5,7 @@
 
 
 ## js 相关
-
+* [js原型与原型链](https://github.com/2018212632/myblog/issues/7)
 ## ES6 相关
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
