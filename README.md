@@ -20,6 +20,7 @@
 
 * [Leetcode剑指Offer03](https://github.com/2018212632/myblog/issues/2)
 * [Leetcode剑指Offer05](https://github.com/2018212632/myblog/issues/5)
+* [Leetcode剑指Offer06](https://github.com/2018212632/myblog/issues/8)
 * [高级搜索](https://github.com/2018212632/myblog/issues/3)
 
 
