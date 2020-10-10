@@ -8,6 +8,7 @@
 * [js原型与原型链](https://github.com/2018212632/myblog/issues/7)
 * [js的词法作用域](https://github.com/2018212632/myblog/issues/9)
 * [js执行上下文栈](https://github.com/2018212632/myblog/issues/10)
+* [js变量对象](https://github.com/2018212632/myblog/issues/12)
 ## ES6 相关
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
