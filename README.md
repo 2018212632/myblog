@@ -11,6 +11,7 @@
 * [js变量对象](https://github.com/2018212632/myblog/issues/12)
 * [js作用域](https://github.com/2018212632/myblog/issues/14)
 * [js之this指向](https://github.com/2018212632/myblog/issues/17)
+* [js执行上下文](https://github.com/2018212632/myblog/issues/19)
 ## ES6 相关
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
