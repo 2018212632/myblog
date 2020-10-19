@@ -12,6 +12,7 @@
 * [js作用域](https://github.com/2018212632/myblog/issues/14)
 * [js之this指向](https://github.com/2018212632/myblog/issues/17)
 * [js执行上下文](https://github.com/2018212632/myblog/issues/20)
+* [js闭包和垃圾回收机制](https://github.com/2018212632/myblog/issues/23)
 ## ES6 相关
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
