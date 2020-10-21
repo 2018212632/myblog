@@ -38,6 +38,7 @@
 * [高级搜索](https://github.com/2018212632/myblog/issues/3)
 * [高级树、AVL树和红黑树](https://github.com/2018212632/myblog/issues/11)
 * [位运算](https://github.com/2018212632/myblog/issues/18)
-
+* [布隆过滤器实现及应用](https://github.com/2018212632/myblog/issues/25)
+* [LRUCache的实现及应用](https://github.com/2018212632/myblog/issues/26)
 
 
