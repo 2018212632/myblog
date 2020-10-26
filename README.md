@@ -15,6 +15,7 @@
 * [js闭包和垃圾回收机制](https://github.com/2018212632/myblog/issues/23)
 * [js参数按值传递](https://github.com/2018212632/myblog/issues/24)
 * [js模拟实现call和apply](https://github.com/2018212632/myblog/issues/28)
+* [js模拟实现bind](https://github.com/2018212632/myblog/issues/30)
 ## ES6 相关
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
