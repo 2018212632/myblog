@@ -4,7 +4,7 @@
 > 每天进步一点点 !
 
 
-## js 相关
+## js 原理相关
 * [js原型与原型链](https://github.com/2018212632/myblog/issues/7)
 * [js的词法作用域](https://github.com/2018212632/myblog/issues/9)
 * [js执行上下文栈](https://github.com/2018212632/myblog/issues/10)
@@ -16,7 +16,11 @@
 * [js参数按值传递](https://github.com/2018212632/myblog/issues/24)
 * [js模拟实现call和apply](https://github.com/2018212632/myblog/issues/28)
 * [js模拟实现bind](https://github.com/2018212632/myblog/issues/30)
+
+
+## js 应用相关
 * [js的Array](https://github.com/2018212632/myblog/issues/31)
+* [js深浅拷贝](https://github.com/2018212632/myblog/issues/32)
 ## ES6 相关
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
