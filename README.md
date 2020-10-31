@@ -20,7 +20,7 @@
 
 ## js 应用相关
 * [js的Array](https://github.com/2018212632/myblog/issues/31)
-* [js深浅拷贝](https://github.com/2018212632/myblog/issues/32)
+* [js深浅拷贝以及类数组对象](https://github.com/2018212632/myblog/issues/32)
 ## ES6 相关
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
