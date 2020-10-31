@@ -16,6 +16,7 @@
 * [js参数按值传递](https://github.com/2018212632/myblog/issues/24)
 * [js模拟实现call和apply](https://github.com/2018212632/myblog/issues/28)
 * [js模拟实现bind](https://github.com/2018212632/myblog/issues/30)
+* [js创建对象的多种模式以及优缺点](https://github.com/2018212632/myblog/issues/33)
 
 
 ## js 应用相关
