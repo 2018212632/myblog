@@ -17,6 +17,7 @@
 * [js模拟实现call和apply](https://github.com/2018212632/myblog/issues/28)
 * [js模拟实现bind](https://github.com/2018212632/myblog/issues/30)
 * [js创建对象的多种模式以及优缺点](https://github.com/2018212632/myblog/issues/34)
+* [js继承的多种方式以及优缺点](https://github.com/2018212632/myblog/issues/35)
 
 
 ## js 应用相关
@@ -26,7 +27,7 @@
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
 * [ES6之字符串模板](https://github.com/2018212632/myblog/issues/6)
-* [ES6之箭头函数](https://github.com/2018212632/myblog/issues/35)
+* [ES6之箭头函数](https://github.com/2018212632/myblog/issues/36)
 ## React 相关
 
 ## 网络相关
