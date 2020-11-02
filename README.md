@@ -26,6 +26,7 @@
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
 * [ES6之字符串模板](https://github.com/2018212632/myblog/issues/6)
+* [ES6之箭头函数](https://github.com/2018212632/myblog/issues/34)
 ## React 相关
 
 ## 网络相关
