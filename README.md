@@ -18,6 +18,7 @@
 * [js模拟实现bind](https://github.com/2018212632/myblog/issues/30)
 * [js创建对象的多种模式以及优缺点](https://github.com/2018212632/myblog/issues/34)
 * [js继承的多种方式以及优缺点](https://github.com/2018212632/myblog/issues/35)
+* [js浮点数精度](https://github.com/2018212632/myblog/issues/38)
 
 
 ## js 应用相关
