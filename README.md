@@ -32,6 +32,7 @@
 * [ES6之Symbol类型特性和应用场景](https://github.com/2018212632/myblog/issues/37)
 * [ES6之迭代器和for...of](https://github.com/2018212632/myblog/issues/39)
 * [ES6之Set](https://github.com/2018212632/myblog/issues/41)
+* [ES6之WeakMap](https://github.com/2018212632/myblog/issues/42)
 ## React 相关
 
 ## 网络相关
