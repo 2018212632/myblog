@@ -34,6 +34,7 @@
 * [ES6之Set](https://github.com/2018212632/myblog/issues/41)
 * [ES6之WeakMap](https://github.com/2018212632/myblog/issues/42)
 * [ES6之Promise](https://github.com/2018212632/myblog/issues/43)
+* [ES6之Generator](https://github.com/2018212632/myblog/issues/44)
 ## React 相关
 
 ## 网络相关
