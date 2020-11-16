@@ -60,6 +60,7 @@
 * [LRUCache的实现及应用](https://github.com/2018212632/myblog/issues/26)
 * [排序](https://github.com/2018212632/myblog/issues/29)
 * [动态规划](https://github.com/2018212632/myblog/issues/40)
+* [字符串基础知识题](https://github.com/2018212632/myblog/issues/47)
 
 ## 项目规范
 * [工程化格式规范](https://github.com/2018212632/myblog/issues/46)
