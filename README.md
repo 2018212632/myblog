@@ -22,8 +22,9 @@
 
 
 ## js 应用相关
-* [js的Array](https://github.com/2018212632/myblog/issues/31)
-* [js深浅拷贝以及类数组对象](https://github.com/2018212632/myblog/issues/32)
+* [js之Array](https://github.com/2018212632/myblog/issues/31)
+* [js之深浅拷贝以及类数组对象](https://github.com/2018212632/myblog/issues/32)
+* [js之跟着underscore学防抖](https://github.com/2018212632/myblog/issues/48)
 ## ES6 相关
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
