@@ -27,6 +27,8 @@
 * [js之跟着underscore学防抖](https://github.com/2018212632/myblog/issues/48)
 * [js之跟着underscore学节流](https://github.com/2018212632/myblog/issues/49)
 * [js之函数柯里化](https://github.com/2018212632/myblog/issues/50)
+* [js之惰性加载函数](https://github.com/2018212632/myblog/issues/51)
+
 ## ES6 相关
 
 * [ES6之let和cosnt](https://github.com/2018212632/myblog/issues/4)
