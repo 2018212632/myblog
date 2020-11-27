@@ -42,7 +42,7 @@
 * [ES6之Generator函数](https://github.com/2018212632/myblog/issues/44)
 * [ES6之async函数](https://github.com/2018212632/myblog/issues/45)
 ## React 相关
-
+* [React15解析](https://github.com/2018212632/myblog/issues/52)
 ## 网络相关
 
 ## 浏览器
@@ -69,3 +69,10 @@
 
 ## 项目规范
 * [工程化格式规范](https://github.com/2018212632/myblog/issues/46)
+
+## 说明
+该仓库只是作为笔记纪录，大部分内容并非原创，有的地方仅仅是个人理解和总结（不一定是准确的），未证实的地方做了说明。
+
+俺偷师学艺的"师傅们"：
+* [冴羽的博客](https://github.com/mqyqingfeng/Blog)
+* [jianjiachenghub](https://github.com/jianjiachenghub/react-deeplearn)
