@@ -73,6 +73,6 @@
 ## 说明
 该仓库只是作为笔记纪录，大部分内容并非原创，有的地方仅仅是个人理解和总结（不一定是准确的），未证实的地方做了说明。
 
-俺偷师学艺的"师傅们"：
+未曾谋面的"师傅们"：
 * [冴羽的博客](https://github.com/mqyqingfeng/Blog)
 * [jianjiachenghub](https://github.com/jianjiachenghub/react-deeplearn)
