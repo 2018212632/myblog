@@ -43,6 +43,7 @@
 * [ES6之async函数](https://github.com/2018212632/myblog/issues/45)
 ## React 相关
 * [React15解析](https://github.com/2018212632/myblog/issues/52)
+* [React fiber](https://github.com/2018212632/myblog/issues/53)
 ## 网络相关
 
 ## 浏览器
