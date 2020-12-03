@@ -45,6 +45,7 @@
 * [React15解析](https://github.com/2018212632/myblog/issues/52)
 * [React fiber](https://github.com/2018212632/myblog/issues/53)
 * [React 有状态组件和无状态组件](https://github.com/2018212632/myblog/issues/54)
+* [Redux 源码解析](https://github.com/2018212632/myblog/issues/55)
 ## 网络相关
 
 ## 浏览器
