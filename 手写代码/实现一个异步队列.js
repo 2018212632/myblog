@@ -52,4 +52,3 @@ queue([a, b, c])
     .then((data) => {
         console.log(data)
     })
-
